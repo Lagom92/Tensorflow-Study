@@ -14,7 +14,11 @@
 
 - 우선 Tensorflow의 기초에 대해 코드를 작성하면서 공부를 해보자.
 
+<br/>
 
+### Linear-regression
+
+- 선형 회귀에 대해 공부해보자.
 
 
 
